@@ -1,2 +1,2 @@
 # potato
-Contains potatos and tests
+Contains potatos, tests, and salads.
